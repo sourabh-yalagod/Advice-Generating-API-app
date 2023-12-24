@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sourabh-yalagod/Advice-Generating-API-app)
-- Live Site URL: [Add live site URL here](https://sourabh-yalagod.github.io/Advice-Generating-API-app/)
+- Solution URL: [solution URL(Github))](https://github.com/sourabh-yalagod/Advice-Generating-API-app)
+- Live Site URL: [live site](https://sourabh-yalagod.github.io/Advice-Generating-API-app/)
 
 ### Built with
 
